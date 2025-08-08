@@ -190,7 +190,7 @@ Entwickelt von **Davood Vakili**
 
 
 
-# 🧠 Math Solver Platform – Solve Math Problems with Python & Django
+# 🇬🇧 Math Solver Platform – Solve Math Problems with Python & Django
 
 This project is a **web-based educational platform** developed using **Python** and the **Django** framework. Its goal is to provide conceptual learning and step-by-step solutions to math problems, ranging from basic topics to advanced university-level subjects.
 
@@ -384,7 +384,7 @@ Project developed by **Davood Vakili**
 
 
 
-# 🇬🇧 Math Solver Platform – حل مسائل ریاضی با پایتون و Django
+# 🇩🇪 Math Solver Platform – حل مسائل ریاضی با پایتون و Django
 
 این پروژه یک **پلتفرم آموزشی تحت وب** است که با استفاده از زبان برنامه‌نویسی **پایتون** و فریم‌ورک **Django** توسعه یافته و هدف آن، آموزش مفهومی و حل مرحله‌به‌مرحله‌ی مسائل ریاضی از سطح پایه تا موضوعات پیشرفته دانشگاهی است.
 
