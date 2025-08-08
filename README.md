@@ -206,7 +206,7 @@ Developed by **Davood Vakili**
 - [ ] Integrate interactive Jupyter Notebooks  
 - [ ] Enable automatic visualization with Matplotlib / Plotly  
 - [ ] Publish as a learning resource for German-speaking developers
-```
+
 
 
 ---
